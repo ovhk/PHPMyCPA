@@ -1,0 +1,6 @@
+A            { color: #764F33; text-decoration: none; font-weight: bold}
+A:hover      { color: #FF0000; text-decoration: none}
+BODY         { font-family: Verdana; font-size: 13px; color: #764F33; font-weight: bold }
+TD           { font-family: Verdana; font-size: 13px; color: #764F33; font-weight: bold }
+A.copyright  { font-family: Verdana; font-size: 10px; color: #000000; text-decoration: none; font-weight: bold}
+.copyright   { font-family: Verdana; font-size: 10px; color: #000000; font-weight: bold}
